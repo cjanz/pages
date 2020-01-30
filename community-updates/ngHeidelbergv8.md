@@ -1,5 +1,5 @@
-![ngHeidelbergv8.jpg](ngHeidelbergv8.png)<br>
-![ngHeidelbergv8b.jpg](ngHeidelbergv8b.png)
+![Banner](ngHeidelbergv8.png)<br>
+![Banner](ngHeidelbergv8b.png)
 
 
 # Community updates, 2020-01-30
